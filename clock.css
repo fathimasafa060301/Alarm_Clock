@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: auto;
+
+}
+.clock{
+    margin: auto;
+    width: 34%;
+    border: 3px solid green;
+    padding: 10px;
+    margin-top: 7%;
+}
+img{
+    padding-left: 90px;
+    height: 266px;
+    width: 341px;
+}
+h1,h2{
+    padding: 5px;
+    font-size: x-large;
+    font-family: monospace;
+    text-align: center;
+}
+form{
+    padding-top: 10px;
+    width: 376px;
+    margin: auto;
+}
+form input{
+    align-items: center;
+    padding: 10px;
+}
+button{
+    width: 155px;
+    margin: 5% 35%;
+    cursor: pointer;
+    font-family: monospace;
+}
+.bttn{
+    padding: 10px;
+    background-color: rgb(76, 129, 129);
+    color: white;
+    font-size: x-large;
+    box-shadow: 5px;
+    border: none;
+}
